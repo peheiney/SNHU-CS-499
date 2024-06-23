@@ -1,18 +1,62 @@
 # SNHU-CS-499
-Computer Science Capstone
+Computer Science Capstone<br>Paige Heiney<br>June, 2024
 
-**Professional Self-Assessment**
+### Introduction
 
-Completing my coursework throughout the Computer Science program and developing my ePortfolio has been a transformative experience, helping me to showcase my strengths, shape my professional goals, and prepare for a successful career in the computer science field. Through a combination of theoretical knowledge and practical application, I have developed a robust skill set that highlights my competence and employability. The ePortfolio serves as a testament to my journey, illustrating the depth and breadth of my expertise in various areas of computer science.
+[Journal: Self-Assessment](CS499/Module%207-1%20Professional%20Self-Assessment.pdf "Journal: Self-Assessment")
 
-One of the most significant aspects of my education has been learning to collaborate effectively in a team environment. During various group projects, such as the development of the Travlr Getaways App, I honed my ability to communicate technical concepts clearly and work synergistically with team members. These experiences have reinforced the importance of diverse perspectives and the value of collective problem-solving. In addition, I have gained valuable experience in communicating with stakeholders. By presenting project updates and explaining complex technical details to non-technical audiences, I have developed the ability to convey information in a clear and accessible manner, which is crucial for any successful IT professional.
+This paper is an professional self-assessment and introduction. 
 
-My coursework in data structures and algorithms has equipped me with the skills to design efficient solutions to complex problems. I have demonstrated my ability to apply algorithmic principles through various projects, optimizing performance and managing trade-offs effectively. Similarly, my experience in software engineering and databases has been extensive. By working on projects like the Travlr Getaways App, I have learned to implement best practices in software design, ensure data integrity, and develop scalable solutions that meet industry standards. Additionally, I have developed a strong security mindset, understanding the importance of anticipating and mitigating potential vulnerabilities in software architecture and design. This comprehensive skill set ensures that I am well-prepared to tackle the challenges of the IT industry.
+[Journal: Career Choice](CS499/CS-499%20Journal%204-1.pdf "Journal: Career Choice")
 
-**Summary of Artifacts**
+This paper reflects on my career choice and my plans moving forward following the completion of my BS-CS degree. 
 
-My ePortfolio is a curated collection of technical artifacts that demonstrate the full range of my computer science talents and abilities. The artifacts are carefully selected to showcase my proficiency in software design and engineering, algorithms and data structures, and databases. Each artifact not only highlights my technical skills but also reflects my ability to solve real-world problems effectively.
 
-The Travlr Getaways App, a central piece in my portfolio, exemplifies my capabilities in software engineering and database management. This project involved implementing robust authentication systems, optimizing data retrieval methods, and ensuring data consistency and integrity. The enhancements made to this application demonstrate my ability to design and develop scalable, secure, and user-friendly software solutions. Another key artifact is the work on user authentication and security, where I applied advanced encryption techniques to safeguard user data, showcasing my commitment to developing secure applications.
+### Code Review
 
-Through these artifacts, I aim to provide a comprehensive overview of my skills and knowledge in computer science. Each piece not only demonstrates my technical prowess but also my ability to work collaboratively, communicate effectively, and apply innovative solutions to complex problems. This portfolio serves as a formal introduction to my capabilities and aspirations in the field of computer science, setting me apart as a well-rounded and competent professional ready to make a meaningful impact in the industry.
+[Code Review Video](CS499/Code%20Review.mp4 "Code Review Video")<br/>
+[Code Review Journal](CS499/Code%20Review%20Journal.pdf "Code Review Journal")
+
+
+In this code review, I examine the existing code to identify weaknesses, limitations, and vulnerabilities, and outline my plan for enhancements. These reviews provide a comprehensive walkthrough of the current code and proposed improvements, demonstrating the following critical elements for each category:
+
+* Existing Functionality: A detailed walkthrough of the current code, highlighting its features and functions.
+* Code Analysis: Identification of areas for improvement in terms of structure, logic, efficiency, functionality, security, testing, commenting, and documentation.
+* Enhancements: A walkthrough of the planned improvements that address the issues identified in the code analysis.
+
+### Software Design and Engineering Enhancement
+
+[Software Design and Engineering Narrative](CS499/Milestone%202%20Narrative.pdf "Software Design and Engineering - trips.js")
+
+This narrative accompanies the first enhancement for software design and engineering, explaining why the selected artifact was included in this category of our ePortfolio and reflecting on the process of its creation. It emphasizes the learning that occurred throughout the artifact's development. The artifact showcases our ability to apply innovative skills and techniques to implement design solutions and achieve goals, highlighting our proficiency in programming solutions to address software logic problems and mitigate potential design flaws related to security.
+
+[Software Design and Engineering Original Artifact](CS499/Original/trips.js "Software Design and Engineering - Original trips.js")</br>
+[Software Design and Engineering Enhanced Artifact](CS499/Enhanced/trips.js "Software Design and Engineering - Enhanced trips.js")
+
+
+### Algorithms and Data Structure Enhancement
+
+[Algorithms and Data Structure Narrative](CS499/Milestone%203%20Narrative.pdf "Algorithms and Data Structure - index.js")
+
+This narrative accompanies the second enhancement for algorithms and data structures, explaining why the selected artifact was included in this category of our ePortfolio and reflecting on the process of its creation. It emphasizes the learning that occurred throughout the artifact's development. The artifact showcases design considerations for authenticating and authorizing users in the monitoring system based on their credentials, ensuring accountability for user interactions with various modules and actions according to their roles within the system.
+
+[Algorithms and Data Structure Original Artifact](CS499/Original/index.js "Algorithms and Data Structure - Original index.js")</br>
+[Algorithms and Data Structure Enhanced Artifact](CS499/Enhanced/index.js "Algorithms and Data Structure - Enhanded index.js")
+
+
+### Databases Enhancement
+
+[Databases Narrative](CS499/Milestone%204%20Narrative.pdf "Databases - user.js")</br> 
+
+
+This narrative accompanies the third enhancement for databases, explaining why the selected artifact was included in this category of our ePortfolio and reflecting on the process of its creation. It highlights the learning experiences gained during the artifact's development. The artifact demonstrates the integration and optimization of database systems to efficiently manage and retrieve data. It showcases the implementation of secure and robust database solutions, ensuring data integrity and accessibility while addressing potential vulnerabilities and improving overall system performance.
+
+[Databases Original Artifact](CS499/Original/user.js "Algorithms and Data Structure - Original user.js")</br>
+[Databases Enhanced Artifact ](CS499/Enhanced/user.js "Algorithms and Data Structure - Enhanded user.js")
+
+
+
+
+
+
+
