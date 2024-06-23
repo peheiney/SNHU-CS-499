@@ -30,7 +30,7 @@ In this code review, I examine the existing code to identify weaknesses, limitat
 
 This narrative accompanies the first enhancement for software design and engineering, explaining why the selected artifact was included in this category of our ePortfolio and reflecting on the process of its creation. It emphasizes the learning that occurred throughout the artifact's development. The artifact showcases our ability to apply innovative skills and techniques to implement design solutions and achieve goals, highlighting our proficiency in programming solutions to address software logic problems and mitigate potential design flaws related to security.
 
-[Software Design and Engineering Original Artifact](CS499/Original/trips.js "Software Design and Engineering - Original trips.js")</br>
+[Software Design and Engineering Original Artifact](CS499/Original/trips.js "Software Design and Engineering - Original trips.js")<br>
 [Software Design and Engineering Enhanced Artifact](CS499/Enhanced/trips.js "Software Design and Engineering - Enhanced trips.js")
 
 
@@ -40,18 +40,18 @@ This narrative accompanies the first enhancement for software design and enginee
 
 This narrative accompanies the second enhancement for algorithms and data structures, explaining why the selected artifact was included in this category of our ePortfolio and reflecting on the process of its creation. It emphasizes the learning that occurred throughout the artifact's development. The artifact showcases design considerations for authenticating and authorizing users in the monitoring system based on their credentials, ensuring accountability for user interactions with various modules and actions according to their roles within the system.
 
-[Algorithms and Data Structure Original Artifact](CS499/Original/index.js "Algorithms and Data Structure - Original index.js")</br>
+[Algorithms and Data Structure Original Artifact](CS499/Original/index.js "Algorithms and Data Structure - Original index.js")<br>
 [Algorithms and Data Structure Enhanced Artifact](CS499/Enhanced/index.js "Algorithms and Data Structure - Enhanded index.js")
 
 
 ### Databases Enhancement
 
-[Databases Narrative](CS499/Milestone%204%20Narrative.pdf "Databases - user.js")</br> 
+[Databases Narrative](CS499/Milestone%204%20Narrative.pdf "Databases - user.js")<br> 
 
 
 This narrative accompanies the third enhancement for databases, explaining why the selected artifact was included in this category of our ePortfolio and reflecting on the process of its creation. It highlights the learning experiences gained during the artifact's development. The artifact demonstrates the integration and optimization of database systems to efficiently manage and retrieve data. It showcases the implementation of secure and robust database solutions, ensuring data integrity and accessibility while addressing potential vulnerabilities and improving overall system performance.
 
-[Databases Original Artifact](CS499/Original/user.js "Algorithms and Data Structure - Original user.js")</br>
+[Databases Original Artifact](CS499/Original/user.js "Algorithms and Data Structure - Original user.js")<br>
 [Databases Enhanced Artifact ](CS499/Enhanced/user.js "Algorithms and Data Structure - Enhanded user.js")
 
 
