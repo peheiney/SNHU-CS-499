@@ -14,7 +14,7 @@ This paper reflects on my career choice and my plans moving forward following th
 
 ### Code Review
 
-[Code Review Video](CS499/Code%20Review.mp4 "Code Review Video")<br/>
+[Code Review Video]((https://vimeo.com/966035119) "Code Review Video")<br/>
 [Code Review Journal](CS499/Code%20Review%20Journal.pdf "Code Review Journal")
 
 
